@@ -1,9 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://github.com/Sanatn-Maity)
 
 <h1 align="center">Hi 👋, I'm Santanu Maity</h1>
-<h3 align="center">💻 Final Year CSE Student | MERN Stack Developer | AI Enthusiast</h3>
+<h3 align="center">💻 Final Year CSE Student | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santanu-maity&label=Profile%20views&color=0e75b6&style=flat" alt="santanu-maity" /> </p>
+<img align="right" alt="coding" width="350" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
+
 
 
 - 🔭 I’m currently working on [🛒 Eshop — A MERN-based eCommerce platform](Link - Live Soon)
