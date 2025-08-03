@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/bFsZDQz/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f776562.gif)](https://github.com/Sanatn-Maity)
+[![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://github.com/Sanatn-Maity)
 
 <h1 align="center">Hi 👋, I'm Santanu Maity</h1>
 <h3 align="center">💻 Final Year CSE Student | MERN Stack Developer | AI Enthusiast</h3>
@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on [💰 Madzo Reward Bazaar — A cashback & affiliate hub powered by smart offers.](Link - Live Soon)
 
-- 👨‍💻 All of my projects are available at [Porfolio.com](Porfolio.com)
+- 👨‍💻 All of my projects are available at [Porfolio](https://santanu-maity.github.io/santanu/)
 
-- 📫 How to reach me **Santanu@gmail.com**
+- 📫 How to reach me [Email](Santanumaity334@gmail.com)
 
-- 📄 Know about my experiences [CV.in](CV.in)
+- 📄 Know about my experiences [Resume](https://santanu-maity.github.io/santanu/)
 
 - ⚡ Fun fact **I break bugs at 2 AM and click sunset photos at 6 PM — developer by code, artist by lens. 🎯📸**
 
@@ -69,6 +69,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santanu-maity" alt="santanu-maity" width="420" />
 </p>
+
 ## 🔚 Thank you for visiting!
 
 [![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)](https://github.com/Sanatn-Maity)
