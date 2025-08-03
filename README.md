@@ -29,7 +29,7 @@
 <a href="https://instagram.com/santanu.m.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santanu.m.official" height="30" width="40" /></a>
 <a href="https://github.com/Santanu-Maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Santanu-Maity" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/santanu-maity/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santanu-maity" height="30" width="40" /></a>
-<a href="https://santanu-maity.github.io/santanu/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="portfolio" height="30" width="40" /></a>
+<a href="https://santanu-maity.github.io/santanu/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="portfolio" height="42" width="40" /></a>
 </p>
 
 
